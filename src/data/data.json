@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1,
+    "name": "ISTA Khemisset",
+    "subTitle": "Institut Spécialisé de Technologie Appliquée",
+    "email": "Example@email.com",
+    "phone": "06 00 00 00 00",
+    "address": "Khemisset, Rue Mohammed V",
+    "image": "etas/khemisset.jpeg",
+    "location": [33.82423180671044, -6.06419558616388],
+    "secteurs": [
+      {
+        "name": "BTP",
+        "filiere": [
+          { "fil": "Dessinateur de bâtiment", "type": "T" },
+          {
+            "fil": "Génie Civil",
+            "type": "TS",
+            "opts": [
+              "Génie Civil option bâtiment",
+              "Génie Civil option méthodes en BTP"
+            ]
+          },
+          {
+            "fil": "Menuiserie",
+            "type": "Q",
+            "opts": [
+              "Menuiserie Aluminium",
+              "Menuiserie option Aluminuim et bois"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gestion et Commerce",
+        "filiere": [
+          {
+            "fil": "Assistant Administratif",
+            "type": "T",
+            "opts": [
+              "Assistant Administratif option Commerce",
+              "Assistant Administratif option Comptabilité",
+              "Assistant Administratif option Gestion"
+            ]
+          },
+          {
+            "fil": "Gestion des Entreprises",
+            "type": "TS",
+            "opts": [
+              "Gestion des Entreprises option Commerce et Marketing",
+              "Gestion des Entreprises option Comptabilité et Finance",
+              "Gestion des Entreprises option Office Manager",
+              "Gestion des Entreprises(CDS)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Digital et I.A",
+        "filiere": [
+          { "fil": "Développement Digital", "type": "T" },
+          { "fil": "Développement Digital option Web FullStack", "type": "T" },
+          { "fil": "Infrastructure Digitale", "type": "T" },
+          {
+            "fil": "Infrastructure Digitale option Cybersécurité",
+            "type": "T"
+          },
+          {
+            "fil": "Infrastructure Digitale option Systèmes et Réseaux",
+            "type": "TS"
+          },
+          { "fil": "Cyber Securite", "type": "TS" }
+        ]
+      },
+      {
+        "name": "Automobile",
+        "filiere": [
+          { "fil": "Réparateur de Véhicules Automobiles", "type": "Q" },
+          {
+            "fil": "Technicien spécialisé en Diagnostic et Electronique Embarquée",
+            "type": "TS"
+          },
+          { "fil": "Technicien en Réparation des Engins à Moteur", "type": "T" }
+        ]
+      },
+      {
+        "name": "Génie électrique",
+        "filiere": [
+          { "fil": "Electricité de Maintenance Industrielle", "type": "T" },
+          { "fil": "Génie électrique", "type": "TS" },
+          { "fil": "Electricité d'Entretien Industriel", "type": "TS" },
+          { "fil": "Electricité de Bâtiment", "type": "SPECIALISATION" }
+        ]
+      },
+      {
+        "name": "HÔTELLERIE",
+        "filiere": [
+          {
+            "fil": "Arts culinaires",
+            "type": "T",
+            "opts": ["Arts culinaires option Cuisine Gastronomique"]
+          },
+          { "fil": "Agent de Restauration", "type": "Q" }
+        ]
+      },
+      {
+        "name": "HABILLEMENT",
+        "filiere": [
+          { "fil": "Ouvrier Spécialiséen Coupeet Couture", "type": "T" },
+          {
+            "fil": "Opérateur Qualifiéen Coupeet Couture industrielle",
+            "type": "Q"
+          }
+        ]
+      },
+      {
+        "name": "SERVICES À LA PERSONNE",
+        "filiere": [
+          { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ISTA Khemisset II",
+    "subTitle": "Institut Spécialisé de Technologie Appliquée",
+    "email": "Example@email.com",
+    "phone": "06 00 00 00 00",
+    "address": "Khemisset, Rue Mohammed V",
+    "image": "etas/khemisset.jpeg",
+    "location": [33.82423180671044, -6.06419558616388],
+    "secteurs": [
+      {
+        "name": "BTP",
+        "filiere": [
+          { "fil": "Dessinateur de bâtiment", "type": "T" },
+          {
+            "fil": "Génie Civil",
+            "type": "TS",
+            "opts": [
+              "Génie Civil option bâtiment",
+              "Génie Civil option méthodes en BTP"
+            ]
+          },
+          {
+            "fil": "Menuiserie",
+            "type": "Q",
+            "opts": [
+              "Menuiserie Aluminium",
+              "Menuiserie option Aluminuim et bois"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gestion et Commerce",
+        "filiere": [
+          {
+            "fil": "Assistant Administratif",
+            "type": "T",
+            "opts": [
+              "Assistant Administratif option Commerce",
+              "Assistant Administratif option Comptabilité",
+              "Assistant Administratif option Gestion"
+            ]
+          },
+          {
+            "fil": "Gestion des Entreprises",
+            "type": "TS",
+            "opts": [
+              "Gestion des Entreprises option Commerce et Marketing",
+              "Gestion des Entreprises option Comptabilité et Finance",
+              "Gestion des Entreprises option Office Manager",
+              "Gestion des Entreprises(CDS)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Digital et I.A",
+        "filiere": [
+          { "fil": "Développement Digital", "type": "T" },
+          { "fil": "Développement Digital option Web FullStack", "type": "T" },
+          { "fil": "Infrastructure Digitale", "type": "T" },
+          {
+            "fil": "Infrastructure Digitale option Cybersécurité",
+            "type": "T"
+          },
+          {
+            "fil": "Infrastructure Digitale option Systèmes et Réseaux",
+            "type": "TS"
+          },
+          { "fil": "Cyber Securite", "type": "TS" }
+        ]
+      },
+      {
+        "name": "Automobile",
+        "filiere": [
+          { "fil": "Réparateur de Véhicules Automobiles", "type": "Q" },
+          {
+            "fil": "Technicien spécialisé en Diagnostic et Electronique Embarquée",
+            "type": "TS"
+          },
+          { "fil": "Technicien en Réparation des Engins à Moteur", "type": "T" }
+        ]
+      },
+      {
+        "name": "Génie électrique",
+        "filiere": [
+          { "fil": "Electricité de Maintenance Industrielle", "type": "T" },
+          { "fil": "Génie électrique", "type": "TS" },
+          { "fil": "Electricité d'Entretien Industriel", "type": "TS" },
+          { "fil": "Electricité de Bâtiment", "type": "SPECIALISATION" }
+        ]
+      },
+      {
+        "name": "HÔTELLERIE",
+        "filiere": [
+          {
+            "fil": "Arts culinaires",
+            "type": "T",
+            "opts": ["Arts culinaires option Cuisine Gastronomique"]
+          },
+          { "fil": "Agent de Restauration", "type": "Q" }
+        ]
+      },
+      {
+        "name": "HABILLEMENT",
+        "filiere": [
+          { "fil": "Ouvrier Spécialiséen Coupeet Couture", "type": "T" },
+          {
+            "fil": "Opérateur Qualifiéen Coupeet Couture industrielle",
+            "type": "Q"
+          }
+        ]
+      },
+      {
+        "name": "SERVICES À LA PERSONNE",
+        "filiere": [
+          { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "CF Sidi Abderrazzak",
+    "subTitle": "Centre de Formation",
+    "email": "Example@email.com",
+
+    "phone": "06 00 00 00 00",
+    "address": "Khemisset",
+    "image": "https://www.ista.ac.ma/wp-content/uploads/2019/09/ISTA-LOGO-1.png",
+    "location": [33.96351249844027, -6.1622964090994605],
+    "secteurs": [
+      {
+        "name": "BTP",
+        "filiere": [
+          { "fil": "Dessinateur de bâtiment", "type": "T" },
+          {
+            "fil": "Génie Civil",
+            "type": "TS",
+            "opts": [
+              "Génie Civil option bâtiment",
+              "Génie Civil option méthodes en BTP"
+            ]
+          },
+          {
+            "fil": "Menuiserie",
+            "type": "Q",
+            "opts": [
+              "Menuiserie Aluminium",
+              "Menuiserie option Aluminuim et bois"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gestion et Commerce",
+        "filiere": [
+          {
+            "fil": "Assistant Administratif",
+            "type": "T",
+            "opts": [
+              "Assistant Administratif option Commerce",
+              "Assistant Administratif option Comptabilité",
+              "Assistant Administratif option Gestion"
+            ]
+          },
+          {
+            "fil": "Gestion des Entreprises",
+            "type": "TS",
+            "opts": [
+              "Gestion des Entreprises option Commerce et Marketing",
+              "Gestion des Entreprises option Comptabilité et Finance",
+              "Gestion des Entreprises option Office Manager",
+              "Gestion des Entreprises(CDS)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Digital et I.A",
+        "filiere": [
+          { "fil": "Développement Digital", "type": "T" },
+          { "fil": "Développement Digital option Web FullStack", "type": "T" },
+          { "fil": "Infrastructure Digitale", "type": "T" },
+          {
+            "fil": "Infrastructure Digitale option Cybersécurité",
+            "type": "T"
+          },
+          {
+            "fil": "Infrastructure Digitale option Systèmes et Réseaux",
+            "type": "TS"
+          },
+          { "fil": "Cyber Securite", "type": "TS" }
+        ]
+      },
+      {
+        "name": "Automobile",
+        "filiere": [
+          { "fil": "Réparateur de Véhicules Automobiles", "type": "Q" },
+          {
+            "fil": "Technicien spécialisé en Diagnostic et Electronique Embarquée",
+            "type": "TS"
+          },
+          { "fil": "Technicien en Réparation des Engins à Moteur", "type": "T" }
+        ]
+      },
+      {
+        "name": "Génie électrique",
+        "filiere": [
+          { "fil": "Electricité de Maintenance Industrielle", "type": "T" },
+          { "fil": "Génie électrique", "type": "TS" },
+          { "fil": "Electricité d'Entretien Industriel", "type": "TS" },
+          { "fil": "Electricité de Bâtiment", "type": "SPECIALISATION" }
+        ]
+      },
+      {
+        "name": "HÔTELLERIE",
+        "filiere": [
+          {
+            "fil": "Arts culinaires",
+            "type": "T",
+            "opts": ["Arts culinaires option Cuisine Gastronomique"]
+          },
+          { "fil": "Agent de Restauration", "type": "Q" }
+        ]
+      },
+      {
+        "name": "HABILLEMENT",
+        "filiere": [
+          { "fil": "Ouvrier Spécialiséen Coupeet Couture", "type": "T" },
+          {
+            "fil": "Opérateur Qualifiéen Coupeet Couture industrielle",
+            "type": "Q"
+          }
+        ]
+      },
+      {
+        "name": "SERVICES À LA PERSONNE",
+        "filiere": [
+          { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "CF Rommani",
+    "subTitle": "Centre de Formation",
+    "email": "Example@email.com",
+    "phone": "06 00 00 00 00",
+    "address": "Khemisset",
+    "image": "https://www.ista.ac.ma/wp-content/uploads/2019/09/ISTA-LOGO-1.png",
+    "location": [33.52592707363338, -6.6023507597510775],
+    "secteurs": [
+      {
+        "name": "BTP",
+        "filiere": [
+          { "fil": "Dessinateur de bâtiment", "type": "T" },
+          {
+            "fil": "Génie Civil",
+            "type": "TS",
+            "opts": [
+              "Génie Civil option bâtiment",
+              "Génie Civil option méthodes en BTP"
+            ]
+          },
+          {
+            "fil": "Menuiserie",
+            "type": "Q",
+            "opts": [
+              "Menuiserie Aluminium",
+              "Menuiserie option Aluminuim et bois"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gestion et Commerce",
+        "filiere": [
+          {
+            "fil": "Assistant Administratif",
+            "type": "T",
+            "opts": [
+              "Assistant Administratif option Commerce",
+              "Assistant Administratif option Comptabilité",
+              "Assistant Administratif option Gestion"
+            ]
+          },
+          {
+            "fil": "Gestion des Entreprises",
+            "type": "TS",
+            "opts": [
+              "Gestion des Entreprises option Commerce et Marketing",
+              "Gestion des Entreprises option Comptabilité et Finance",
+              "Gestion des Entreprises option Office Manager",
+              "Gestion des Entreprises(CDS)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Digital et I.A",
+        "filiere": [
+          { "fil": "Développement Digital", "type": "T" },
+          { "fil": "Développement Digital option Web FullStack", "type": "T" },
+          { "fil": "Infrastructure Digitale", "type": "T" },
+          {
+            "fil": "Infrastructure Digitale option Cybersécurité",
+            "type": "T"
+          },
+          {
+            "fil": "Infrastructure Digitale option Systèmes et Réseaux",
+            "type": "TS"
+          },
+          { "fil": "Cyber Securite", "type": "TS" }
+        ]
+      },
+      {
+        "name": "Automobile",
+        "filiere": [
+          { "fil": "Réparateur de Véhicules Automobiles", "type": "Q" },
+          {
+            "fil": "Technicien spécialisé en Diagnostic et Electronique Embarquée",
+            "type": "TS"
+          },
+          { "fil": "Technicien en Réparation des Engins à Moteur", "type": "T" }
+        ]
+      },
+      {
+        "name": "Génie électrique",
+        "filiere": [
+          { "fil": "Electricité de Maintenance Industrielle", "type": "T" },
+          { "fil": "Génie électrique", "type": "TS" },
+          { "fil": "Electricité d'Entretien Industriel", "type": "TS" },
+          { "fil": "Electricité de Bâtiment", "type": "SPECIALISATION" }
+        ]
+      },
+      {
+        "name": "HÔTELLERIE",
+        "filiere": [
+          {
+            "fil": "Arts culinaires",
+            "type": "T",
+            "opts": ["Arts culinaires option Cuisine Gastronomique"]
+          },
+          { "fil": "Agent de Restauration", "type": "Q" }
+        ]
+      },
+      {
+        "name": "HABILLEMENT",
+        "filiere": [
+          { "fil": "Ouvrier Spécialiséen Coupeet Couture", "type": "T" },
+          {
+            "fil": "Opérateur Qualifiéen Coupeet Couture industrielle",
+            "type": "Q"
+          }
+        ]
+      },
+      {
+        "name": "SERVICES À LA PERSONNE",
+        "filiere": [
+          { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "CF Sidi Allal Bahraoui",
+    "subTitle": "Centre de Formation",
+    "email": "Example@email.com",
+    "phone": "06 00 00 00 00",
+
+    "address": "Khemisset",
+    "image": "https://www.ista.ac.ma/wp-content/uploads/2019/09/ISTA-LOGO-1.png",
+    "location": [34.009403776399814, -6.532793526345386],
+    "secteurs": [
+      {
+        "name": "BTP",
+        "filiere": [
+          { "fil": "Dessinateur de bâtiment", "type": "T" },
+          {
+            "fil": "Génie Civil",
+            "type": "TS",
+            "opts": [
+              "Génie Civil option bâtiment",
+              "Génie Civil option méthodes en BTP"
+            ]
+          },
+          {
+            "fil": "Menuiserie",
+            "type": "Q",
+            "opts": [
+              "Menuiserie Aluminium",
+              "Menuiserie option Aluminuim et bois"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gestion et Commerce",
+        "filiere": [
+          {
+            "fil": "Assistant Administratif",
+            "type": "T",
+            "opts": [
+              "Assistant Administratif option Commerce",
+              "Assistant Administratif option Comptabilité",
+              "Assistant Administratif option Gestion"
+            ]
+          },
+          {
+            "fil": "Gestion des Entreprises",
+            "type": "TS",
+            "opts": [
+              "Gestion des Entreprises option Commerce et Marketing",
+              "Gestion des Entreprises option Comptabilité et Finance",
+              "Gestion des Entreprises option Office Manager",
+              "Gestion des Entreprises(CDS)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Digital et I.A",
+        "filiere": [
+          { "fil": "Développement Digital", "type": "T" },
+          { "fil": "Développement Digital option Web FullStack", "type": "T" },
+          { "fil": "Infrastructure Digitale", "type": "T" },
+          {
+            "fil": "Infrastructure Digitale option Cybersécurité",
+            "type": "T"
+          },
+          {
+            "fil": "Infrastructure Digitale option Systèmes et Réseaux",
+            "type": "TS"
+          },
+          { "fil": "Cyber Securite", "type": "TS" }
+        ]
+      },
+      {
+        "name": "Automobile",
+        "filiere": [
+          { "fil": "Réparateur de Véhicules Automobiles", "type": "Q" },
+          {
+            "fil": "Technicien spécialisé en Diagnostic et Electronique Embarquée",
+            "type": "TS"
+          },
+          { "fil": "Technicien en Réparation des Engins à Moteur", "type": "T" }
+        ]
+      },
+      {
+        "name": "Génie électrique",
+        "filiere": [
+          { "fil": "Electricité de Maintenance Industrielle", "type": "T" },
+          { "fil": "Génie électrique", "type": "TS" },
+          { "fil": "Electricité d'Entretien Industriel", "type": "TS" },
+          { "fil": "Electricité de Bâtiment", "type": "SPECIALISATION" }
+        ]
+      },
+      {
+        "name": "HÔTELLERIE",
+        "filiere": [
+          {
+            "fil": "Arts culinaires",
+            "type": "T",
+            "opts": ["Arts culinaires option Cuisine Gastronomique"]
+          },
+          { "fil": "Agent de Restauration", "type": "Q" }
+        ]
+      },
+      {
+        "name": "HABILLEMENT",
+        "filiere": [
+          { "fil": "Ouvrier Spécialiséen Coupeet Couture", "type": "T" },
+          {
+            "fil": "Opérateur Qualifiéen Coupeet Couture industrielle",
+            "type": "Q"
+          }
+        ]
+      },
+      {
+        "name": "SERVICES À LA PERSONNE",
+        "filiere": [
+          { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "CSM Tiflet",
+    "subTitle": "Centre de Formation",
+    "email": "Example@email.com",
+    "phone": "06 00 00 00 00",
+    "address": "Khemisset",
+    "image": "https://www.ista.ac.ma/wp-content/uploads/2019/09/ISTA-LOGO-1.png",
+    "location": [33.895784650560344, -6.320650777722321],
+    "secteurs": [
+      {
+        "name": "BTP",
+        "filiere": [
+          { "fil": "Dessinateur de bâtiment", "type": "T" },
+          {
+            "fil": "Génie Civil",
+            "type": "TS",
+            "opts": [
+              "Génie Civil option bâtiment",
+              "Génie Civil option méthodes en BTP"
+            ]
+          },
+          {
+            "fil": "Menuiserie",
+            "type": "Q",
+            "opts": [
+              "Menuiserie Aluminium",
+              "Menuiserie option Aluminuim et bois"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gestion et Commerce",
+        "filiere": [
+          {
+            "fil": "Assistant Administratif",
+            "type": "T",
+            "opts": [
+              "Assistant Administratif option Commerce",
+              "Assistant Administratif option Comptabilité",
+              "Assistant Administratif option Gestion"
+            ]
+          },
+          {
+            "fil": "Gestion des Entreprises",
+            "type": "TS",
+            "opts": [
+              "Gestion des Entreprises option Commerce et Marketing",
+              "Gestion des Entreprises option Comptabilité et Finance",
+              "Gestion des Entreprises option Office Manager",
+              "Gestion des Entreprises(CDS)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Digital et I.A",
+        "filiere": [
+          { "fil": "Développement Digital", "type": "T" },
+          { "fil": "Développement Digital option Web FullStack", "type": "T" },
+          { "fil": "Infrastructure Digitale", "type": "T" },
+          {
+            "fil": "Infrastructure Digitale option Cybersécurité",
+            "type": "T"
+          },
+          {
+            "fil": "Infrastructure Digitale option Systèmes et Réseaux",
+            "type": "TS"
+          },
+          { "fil": "Cyber Securite", "type": "TS" }
+        ]
+      },
+      {
+        "name": "Automobile",
+        "filiere": [
+          { "fil": "Réparateur de Véhicules Automobiles", "type": "Q" },
+          {
+            "fil": "Technicien spécialisé en Diagnostic et Electronique Embarquée",
+            "type": "TS"
+          },
+          { "fil": "Technicien en Réparation des Engins à Moteur", "type": "T" }
+        ]
+      },
+      {
+        "name": "Génie électrique",
+        "filiere": [
+          { "fil": "Electricité de Maintenance Industrielle", "type": "T" },
+          { "fil": "Génie électrique", "type": "TS" },
+          { "fil": "Electricité d'Entretien Industriel", "type": "TS" },
+          { "fil": "Electricité de Bâtiment", "type": "SPECIALISATION" }
+        ]
+      },
+      {
+        "name": "HÔTELLERIE",
+        "filiere": [
+          {
+            "fil": "Arts culinaires",
+            "type": "T",
+            "opts": ["Arts culinaires option Cuisine Gastronomique"]
+          },
+          { "fil": "Agent de Restauration", "type": "Q" }
+        ]
+      },
+      {
+        "name": "HABILLEMENT",
+        "filiere": [
+          { "fil": "Ouvrier Spécialiséen Coupeet Couture", "type": "T" },
+          {
+            "fil": "Opérateur Qualifiéen Coupeet Couture industrielle",
+            "type": "Q"
+          }
+        ]
+      },
+      {
+        "name": "SERVICES À LA PERSONNE",
+        "filiere": [
+          { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
+        ]
+      }
+    ]
+  }
+]

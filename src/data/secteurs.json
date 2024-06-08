@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "BTP",
+    "image": "btp.png"
+  },
+
+  {
+    "id": 2,
+    "name": "DIGITAL ET I.A",
+    "image": "digital.png"
+  },
+
+  {
+    "id": 3,
+    "name": "HÔTELLERIE",
+    "image": "hotel.png"
+  },
+
+  {
+    "id": 4,
+    "name": "GESTION ET COMMERCE",
+    "image": "c&m.png"
+  },
+
+  {
+    "id": 5,
+    "name": "SERVICES À LA PERSONNE",
+    "image": "service.png"
+  },
+  {
+    "id": 6,
+    "name": "AUTOMOBILE",
+    "image": "auto.png"
+  },
+  {
+    "id": 7,
+    "name": "GÉNIE ELECTRIQUE",
+    "image": "elect.png"
+  },
+  {
+    "id": 8,
+    "name": "HABILLEMENT",
+    "image": "habille.png"
+  }
+]
