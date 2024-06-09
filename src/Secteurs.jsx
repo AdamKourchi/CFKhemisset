@@ -24,6 +24,7 @@ return (
         </div>
         
         <div className="container pt-10 mx-auto ">
+          
             <Carousel className="mx-5 md:mx-20 " opts={{ align: "start", itemsToShow: 4, loop: true }}>
                 <CarouselContent className="-ml-1">
                     {data.map((el) => (
@@ -42,6 +43,7 @@ return (
                 <CarouselPrevious />
                 <CarouselNext />
             </Carousel>
+
         </div>
     </div>
 );

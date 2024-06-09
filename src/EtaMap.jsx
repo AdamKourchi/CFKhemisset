@@ -47,7 +47,8 @@ function EtaMap() {
                 <div>
                   <Button
                     key={el.id}
-                    className=" w-full bg-green-600 flex-1 rounded-none focus:bg-slate-200 focus:text-green-600"
+                    className={`w-full bg-green-600 flex-1 rounded-none font-semibold hover:bg-slate-200 hover:text-green-600 ${selected.name == el.name ? 'bg-slate-200 text-green-600' : 'bg-green-600'}`} 
+
                     onClick={() => handleSelected(el.name)}
                   >
                     {el.name}

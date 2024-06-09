@@ -3,7 +3,6 @@ import { Link, animateScroll as scroll } from "react-scroll";
 
 
 
-
 function App() {
   return (
     <div
@@ -14,7 +13,7 @@ function App() {
       }}
     >
       <nav className="absolute top-0 left-0 w-full pt-0 bg-transparent z-30 ">
-        <div className=" mx-10 md:mx-10 lg:mx-20 flex justify-center md:justify-between items-center align-middle ">
+        <div className="sm:mx-10 lg:mx-20 flex justify-end sm:justify-between items-center align-middle ">
          
           <div >
             <img src="logo.png" className="w-96 hidden sm:block " />
@@ -175,7 +174,7 @@ function App() {
       <div className="absolute inset-0 bg-black bg-opacity-50"></div>
 
       <div className="absolute inset-0 flex items-center flex-col align justify-center z-10">
-      <img src="logo-circle.png" className="w-18 mb-5  sm:hidden " />
+      <img src="logo-circle.png" className="w-20 mb-5  sm:hidden " />
 
         <h1 className="text-white text-lg md:text-4xl lg:text-5xl font-bold font-k2d md:mb-3">
           COMPLEXE DE FORMATION KHEMISSET
@@ -185,9 +184,11 @@ function App() {
         </h1>
       </div>
 
-      <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 mb-4 flex items-center flex-col z-10">
+      <div className="hidden md:flex absolute bottom-0 left-1/2 transform -translate-x-1/2 mb-4  items-center flex-col z-10">
         <img className="animate-bounce w-10 h-10" src="arrow.svg" alt="Arrow" />
       </div>
+
+
     </div>
   );
 }

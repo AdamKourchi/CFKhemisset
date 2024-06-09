@@ -1,5 +1,3 @@
-import Logo_ista from "/logo-circle.png";
-
 export default function FooterWithLogo() {
   const date = new Date();
 
@@ -13,7 +11,7 @@ export default function FooterWithLogo() {
           <div className="mb-6 md:mb-0 ">
             <div className=" md:w-4/5 pt-0  flex justify-center items-center">
               <img
-                src={Logo_ista}
+                src="logo-circle.png"
                 className="me-3 w-1/3"
               />
             </div>

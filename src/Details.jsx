@@ -69,7 +69,7 @@ export default function Details() {
                 <div>
                   <Button
                     key={el.id}
-                    className=" w-full bg-green-600 flex-1 rounded-none focus:bg-slate-200 focus:text-green-600"
+                    className={`w-full bg-green-600 flex-1 rounded-none font-semibold hover:bg-white hover:text-green-600 ${selected.name == el.name ? 'bg-white text-green-600' : 'bg-green-600'}`} 
                     onClick={() => handleSelected(el.name)}
                   >
                     {el.name}
@@ -100,7 +100,7 @@ export default function Details() {
           </p>
           <img
             className="object-cover w-96 h-80 shadow-lg border-green-600 border-8"
-            src="etas/khemisset.jpeg"
+            src={selected.image}
           />
         </div>
 
@@ -120,7 +120,7 @@ export default function Details() {
             </div>
 
             <div className="text-center flex flex-col items-center space-y-1">
-              <p className="font-bold text-3xl">480</p>
+              <p className="font-bold text-3xl"> { selected.nombreStagiaires }</p>
               <p className="font-bold text-xl ">Stagiaire</p>
             </div>
           </div>
@@ -149,14 +149,14 @@ export default function Details() {
                 <TabPanel key={secteur.name} value={secteur.name}>
                   <div className="space-y-2 p-1">
                     {secteur.filiere.map((filiere) => (
-                      <><span> ({filiere.type}) </span>
+                      <div key={filiere.fil} ><span > ({filiere.type}) </span>
                         <b>
                            {filiere.fil}
                         </b> <br />
 
                         {filiere.opts &&
-                          filiere.opts.map((opt) =>  <ul> <li className="list-disc ml-10" >{opt}</li> </ul>)}
-                      </>
+                          filiere.opts.map((opt) =>  <ul key={opt}> <li className="list-disc ml-10" >{opt}</li> </ul>)}
+                      </div>
                     ))}
                   </div>
                 </TabPanel>

@@ -3,11 +3,12 @@
     "id": 1,
     "name": "ISTA Khemisset",
     "subTitle": "Institut Spécialisé de Technologie Appliquée",
-    "email": "Example@email.com",
-    "phone": "06 00 00 00 00",
-    "address": "Khemisset, Rue Mohammed V",
+    "email": "email@example.com",
+    "phone": "05 37 55 32 15",
+    "address": "Av. Mohamed V, Khémisset",
     "image": "etas/khemisset.jpeg",
     "location": [33.82423180671044, -6.06419558616388],
+    "nombreStagiaires": "850",
     "secteurs": [
       {
         "name": "BTP",
@@ -58,12 +59,12 @@
       {
         "name": "Digital et I.A",
         "filiere": [
-          { "fil": "Développement Digital", "type": "T" },
-          { "fil": "Développement Digital option Web FullStack", "type": "T" },
-          { "fil": "Infrastructure Digitale", "type": "T" },
+          { "fil": "Développement Digital", "type": "TS" },
+          { "fil": "Développement Digital option Web FullStack", "type": "TS" },
+          { "fil": "Infrastructure Digitale", "type": "TS" },
           {
             "fil": "Infrastructure Digitale option Cybersécurité",
-            "type": "T"
+            "type": "TS"
           },
           {
             "fil": "Infrastructure Digitale option Systèmes et Réseaux",
@@ -125,11 +126,12 @@
     "id": 2,
     "name": "ISTA Khemisset II",
     "subTitle": "Institut Spécialisé de Technologie Appliquée",
-    "email": "Example@email.com",
-    "phone": "06 00 00 00 00",
-    "address": "Khemisset, Rue Mohammed V",
+    "email": "email@example.com",
+    "phone": "05 37 55 32 15",
+    "address": "Av. Alqadi Iyad, Khemisset",
     "image": "etas/khemisset.jpeg",
     "location": [33.82423180671044, -6.06419558616388],
+    "nombreStagiaires": "288",
     "secteurs": [
       {
         "name": "BTP",
@@ -180,12 +182,12 @@
       {
         "name": "Digital et I.A",
         "filiere": [
-          { "fil": "Développement Digital", "type": "T" },
-          { "fil": "Développement Digital option Web FullStack", "type": "T" },
-          { "fil": "Infrastructure Digitale", "type": "T" },
+          { "fil": "Développement Digital", "type": "TS" },
+          { "fil": "Développement Digital option Web FullStack", "type": "TS" },
+          { "fil": "Infrastructure Digitale", "type": "TS" },
           {
             "fil": "Infrastructure Digitale option Cybersécurité",
-            "type": "T"
+            "type": "TS"
           },
           {
             "fil": "Infrastructure Digitale option Systèmes et Réseaux",
@@ -248,12 +250,12 @@
     "id": 3,
     "name": "CF Sidi Abderrazzak",
     "subTitle": "Centre de Formation",
-    "email": "Example@email.com",
-
-    "phone": "06 00 00 00 00",
-    "address": "Khemisset",
-    "image": "https://www.ista.ac.ma/wp-content/uploads/2019/09/ISTA-LOGO-1.png",
+    "email": "med.elmoukhtafi@gmail.com",
+    "phone": "+212 00000",
+    "address": "Sidi Abderazzak khazazna",
+    "image": "etas/sidiAbdRazzak.jpg",
     "location": [33.96351249844027, -6.1622964090994605],
+    "nombreStagiaires": "156",
     "secteurs": [
       {
         "name": "BTP",
@@ -304,12 +306,12 @@
       {
         "name": "Digital et I.A",
         "filiere": [
-          { "fil": "Développement Digital", "type": "T" },
-          { "fil": "Développement Digital option Web FullStack", "type": "T" },
-          { "fil": "Infrastructure Digitale", "type": "T" },
+          { "fil": "Développement Digital", "type": "TS" },
+          { "fil": "Développement Digital option Web FullStack", "type": "TS" },
+          { "fil": "Infrastructure Digitale", "type": "TS" },
           {
             "fil": "Infrastructure Digitale option Cybersécurité",
-            "type": "T"
+            "type": "TS"
           },
           {
             "fil": "Infrastructure Digitale option Systèmes et Réseaux",
@@ -372,10 +374,11 @@
     "name": "CF Rommani",
     "subTitle": "Centre de Formation",
     "email": "Example@email.com",
-    "phone": "06 00 00 00 00",
-    "address": "Khemisset",
-    "image": "https://www.ista.ac.ma/wp-content/uploads/2019/09/ISTA-LOGO-1.png",
+    "phone": "05 37 51 73 47",
+    "address": "Route Rabat, Rommani 15150",
+    "image": "etas/rommani.jpg",
     "location": [33.52592707363338, -6.6023507597510775],
+    "nombreStagiaires": "299",
     "secteurs": [
       {
         "name": "BTP",
@@ -426,12 +429,12 @@
       {
         "name": "Digital et I.A",
         "filiere": [
-          { "fil": "Développement Digital", "type": "T" },
-          { "fil": "Développement Digital option Web FullStack", "type": "T" },
-          { "fil": "Infrastructure Digitale", "type": "T" },
+          { "fil": "Développement Digital", "type": "TS" },
+          { "fil": "Développement Digital option Web FullStack", "type": "TS" },
+          { "fil": "Infrastructure Digitale", "type": "TS" },
           {
             "fil": "Infrastructure Digitale option Cybersécurité",
-            "type": "T"
+            "type": "TS"
           },
           {
             "fil": "Infrastructure Digitale option Systèmes et Réseaux",
@@ -495,10 +498,10 @@
     "subTitle": "Centre de Formation",
     "email": "Example@email.com",
     "phone": "06 00 00 00 00",
-
-    "address": "Khemisset",
-    "image": "https://www.ista.ac.ma/wp-content/uploads/2019/09/ISTA-LOGO-1.png",
+    "address": "Avenue alAtlass Sidi Allal Bahraoui",
+    "image": "etas/allal.jpg",
     "location": [34.009403776399814, -6.532793526345386],
+    "nombreStagiaires": "303",
     "secteurs": [
       {
         "name": "BTP",
@@ -549,12 +552,12 @@
       {
         "name": "Digital et I.A",
         "filiere": [
-          { "fil": "Développement Digital", "type": "T" },
-          { "fil": "Développement Digital option Web FullStack", "type": "T" },
-          { "fil": "Infrastructure Digitale", "type": "T" },
+          { "fil": "Développement Digital", "type": "TS" },
+          { "fil": "Développement Digital option Web FullStack", "type": "TS" },
+          { "fil": "Infrastructure Digitale", "type": "TS" },
           {
             "fil": "Infrastructure Digitale option Cybersécurité",
-            "type": "T"
+            "type": "TS"
           },
           {
             "fil": "Infrastructure Digitale option Systèmes et Réseaux",
@@ -615,12 +618,13 @@
   {
     "id": 6,
     "name": "CSM Tiflet",
-    "subTitle": "Centre de Formation",
+    "subTitle": "Centre Sociale Multidisciplinaire",
     "email": "Example@email.com",
     "phone": "06 00 00 00 00",
-    "address": "Khemisset",
-    "image": "https://www.ista.ac.ma/wp-content/uploads/2019/09/ISTA-LOGO-1.png",
+    "address": "Boulevard Abdelkrim Al Khattabi Tiflet",
+    "image": "etas/tiflet.jpg",
     "location": [33.895784650560344, -6.320650777722321],
+    "nombreStagiaires": "593",
     "secteurs": [
       {
         "name": "BTP",
@@ -671,12 +675,15 @@
       {
         "name": "Digital et I.A",
         "filiere": [
-          { "fil": "Développement Digital", "type": "T" },
-          { "fil": "Développement Digital option Web FullStack", "type": "T" },
-          { "fil": "Infrastructure Digitale", "type": "T" },
+          { "fil": "Développement Digital", "type": "TS", "opts" : [
+
+               "Développement Digital option Web FullStack"
+
+          ] },
+          { "fil": "Infrastructure Digitale", "type": "TS" },
           {
             "fil": "Infrastructure Digitale option Cybersécurité",
-            "type": "T"
+            "type": "TS"
           },
           {
             "fil": "Infrastructure Digitale option Systèmes et Réseaux",
