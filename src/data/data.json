@@ -120,6 +120,50 @@
           { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
         ]
       }
+    ],
+    "actualites" : [
+      {
+        "title": "Nouvelle Formation en Cybersécurité",
+        "date": "2024-07-01",
+        "description": "Nous sommes ravis d'annoncer le lancement d'une nouvelle formation en Cybersécurité pour répondre à la demande croissante dans ce domaine."
+       , "img" :"news.jpeg"
+      },
+      {
+        "title": "Journée Portes Ouvertes",
+        "date": "2024-08-15",
+        "description": "Rejoignez-nous pour une journée portes ouvertes le 15 août 2024. Découvrez nos programmes, rencontrez les enseignants et explorez nos installations."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Concours de Cuisine Gastronomique",
+        "date": "2024-09-10",
+        "description": "Participez à notre concours annuel de cuisine gastronomique. Les inscriptions sont ouvertes jusqu'au 31 août 2024."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Atelier de Développement Web",
+        "date": "2024-10-05",
+        "description": "Un atelier intensif de développement web se tiendra le 5 octobre 2024. Apprenez les bases du développement web et créez votre premier site."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Séminaire sur l'Intelligence Artificielle",
+        "date": "2024-11-20",
+        "description": "Assistez à notre séminaire sur l'intelligence artificielle avec des experts du domaine. Inscrivez-vous dès maintenant pour réserver votre place."
+        , "img" :"news.jpeg"
+
+      }
+    ],
+    "groupes": [
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevOwfs 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Gestion des Entreprises", "name":"Gestion 201","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Réseaux 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Cyber 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevMobile 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Electricité de Bâtiment", "name":"Electricite 201","img":"assets/devowfs.png"}
     ]
   },
   {
@@ -243,7 +287,52 @@
           { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
         ]
       }
+    ],
+    "actualites" : [
+      {
+        "title": "Nouvelle Formation en Cybersécurité",
+        "date": "2024-07-01",
+        "description": "Nous sommes ravis d'annoncer le lancement d'une nouvelle formation en Cybersécurité pour répondre à la demande croissante dans ce domaine."
+       , "img" :"news.jpeg"
+      },
+      {
+        "title": "Journée Portes Ouvertes",
+        "date": "2024-08-15",
+        "description": "Rejoignez-nous pour une journée portes ouvertes le 15 août 2024. Découvrez nos programmes, rencontrez les enseignants et explorez nos installations."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Concours de Cuisine Gastronomique",
+        "date": "2024-09-10",
+        "description": "Participez à notre concours annuel de cuisine gastronomique. Les inscriptions sont ouvertes jusqu'au 31 août 2024."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Atelier de Développement Web",
+        "date": "2024-10-05",
+        "description": "Un atelier intensif de développement web se tiendra le 5 octobre 2024. Apprenez les bases du développement web et créez votre premier site."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Séminaire sur l'Intelligence Artificielle",
+        "date": "2024-11-20",
+        "description": "Assistez à notre séminaire sur l'intelligence artificielle avec des experts du domaine. Inscrivez-vous dès maintenant pour réserver votre place."
+        , "img" :"news.jpeg"
+
+      }
+    ],
+    "groupes": [
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevOwfs 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Gestion des Entreprises", "name":"Gestion 201","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Réseaux 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Cyber 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevMobile 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Electricité de Bâtiment", "name":"Electricite 201","img":"assets/devowfs.png"}
     ]
+  
   },
 
   {
@@ -367,6 +456,50 @@
           { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
         ]
       }
+    ],
+    "actualites" : [
+      {
+        "title": "Nouvelle Formation en Cybersécurité",
+        "date": "2024-07-01",
+        "description": "Nous sommes ravis d'annoncer le lancement d'une nouvelle formation en Cybersécurité pour répondre à la demande croissante dans ce domaine."
+       , "img" :"news.jpeg"
+      },
+      {
+        "title": "Journée Portes Ouvertes",
+        "date": "2024-08-15",
+        "description": "Rejoignez-nous pour une journée portes ouvertes le 15 août 2024. Découvrez nos programmes, rencontrez les enseignants et explorez nos installations."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Concours de Cuisine Gastronomique",
+        "date": "2024-09-10",
+        "description": "Participez à notre concours annuel de cuisine gastronomique. Les inscriptions sont ouvertes jusqu'au 31 août 2024."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Atelier de Développement Web",
+        "date": "2024-10-05",
+        "description": "Un atelier intensif de développement web se tiendra le 5 octobre 2024. Apprenez les bases du développement web et créez votre premier site."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Séminaire sur l'Intelligence Artificielle",
+        "date": "2024-11-20",
+        "description": "Assistez à notre séminaire sur l'intelligence artificielle avec des experts du domaine. Inscrivez-vous dès maintenant pour réserver votre place."
+        , "img" :"news.jpeg"
+
+      }
+    ],
+    "groupes": [
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevOwfs 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Gestion des Entreprises", "name":"Gestion 201","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Réseaux 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Cyber 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevMobile 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Electricité de Bâtiment", "name":"Electricite 201","img":"assets/devowfs.png"}
     ]
   },
   {
@@ -490,6 +623,50 @@
           { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
         ]
       }
+    ],
+    "actualites" : [
+      {
+        "title": "Nouvelle Formation en Cybersécurité",
+        "date": "2024-07-01",
+        "description": "Nous sommes ravis d'annoncer le lancement d'une nouvelle formation en Cybersécurité pour répondre à la demande croissante dans ce domaine."
+       , "img" :"news.jpeg"
+      },
+      {
+        "title": "Journée Portes Ouvertes",
+        "date": "2024-08-15",
+        "description": "Rejoignez-nous pour une journée portes ouvertes le 15 août 2024. Découvrez nos programmes, rencontrez les enseignants et explorez nos installations."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Concours de Cuisine Gastronomique",
+        "date": "2024-09-10",
+        "description": "Participez à notre concours annuel de cuisine gastronomique. Les inscriptions sont ouvertes jusqu'au 31 août 2024."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Atelier de Développement Web",
+        "date": "2024-10-05",
+        "description": "Un atelier intensif de développement web se tiendra le 5 octobre 2024. Apprenez les bases du développement web et créez votre premier site."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Séminaire sur l'Intelligence Artificielle",
+        "date": "2024-11-20",
+        "description": "Assistez à notre séminaire sur l'intelligence artificielle avec des experts du domaine. Inscrivez-vous dès maintenant pour réserver votre place."
+        , "img" :"news.jpeg"
+
+      }
+    ],
+    "groupes": [
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevOwfs 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Gestion des Entreprises", "name":"Gestion 201","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Réseaux 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Cyber 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevMobile 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Electricité de Bâtiment", "name":"Electricite 201","img":"assets/devowfs.png"}
     ]
   },
   {
@@ -613,6 +790,50 @@
           { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
         ]
       }
+    ],
+    "actualites" : [
+      {
+        "title": "Nouvelle Formation en Cybersécurité",
+        "date": "2024-07-01",
+        "description": "Nous sommes ravis d'annoncer le lancement d'une nouvelle formation en Cybersécurité pour répondre à la demande croissante dans ce domaine."
+       , "img" :"news.jpeg"
+      },
+      {
+        "title": "Journée Portes Ouvertes",
+        "date": "2024-08-15",
+        "description": "Rejoignez-nous pour une journée portes ouvertes le 15 août 2024. Découvrez nos programmes, rencontrez les enseignants et explorez nos installations."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Concours de Cuisine Gastronomique",
+        "date": "2024-09-10",
+        "description": "Participez à notre concours annuel de cuisine gastronomique. Les inscriptions sont ouvertes jusqu'au 31 août 2024."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Atelier de Développement Web",
+        "date": "2024-10-05",
+        "description": "Un atelier intensif de développement web se tiendra le 5 octobre 2024. Apprenez les bases du développement web et créez votre premier site."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Séminaire sur l'Intelligence Artificielle",
+        "date": "2024-11-20",
+        "description": "Assistez à notre séminaire sur l'intelligence artificielle avec des experts du domaine. Inscrivez-vous dès maintenant pour réserver votre place."
+        , "img" :"news.jpeg"
+
+      }
+    ],
+    "groupes": [
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevOwfs 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Gestion des Entreprises", "name":"Gestion 201","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Réseaux 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Cyber 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevMobile 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Electricité de Bâtiment", "name":"Electricite 201","img":"assets/devowfs.png"}
     ]
   },
   {
@@ -739,6 +960,50 @@
           { "fil": "Educateur Spécialisé dans la Petite Enfance", "type": "TS" }
         ]
       }
+    ],
+    "actualites" : [
+      {
+        "title": "Nouvelle Formation en Cybersécurité",
+        "date": "2024-07-01",
+        "description": "Nous sommes ravis d'annoncer le lancement d'une nouvelle formation en Cybersécurité pour répondre à la demande croissante dans ce domaine."
+       , "img" :"news.jpeg"
+      },
+      {
+        "title": "Journée Portes Ouvertes",
+        "date": "2024-08-15",
+        "description": "Rejoignez-nous pour une journée portes ouvertes le 15 août 2024. Découvrez nos programmes, rencontrez les enseignants et explorez nos installations."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Concours de Cuisine Gastronomique",
+        "date": "2024-09-10",
+        "description": "Participez à notre concours annuel de cuisine gastronomique. Les inscriptions sont ouvertes jusqu'au 31 août 2024."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Atelier de Développement Web",
+        "date": "2024-10-05",
+        "description": "Un atelier intensif de développement web se tiendra le 5 octobre 2024. Apprenez les bases du développement web et créez votre premier site."
+        , "img" :"news.jpeg"
+
+      },
+      {
+        "title": "Séminaire sur l'Intelligence Artificielle",
+        "date": "2024-11-20",
+        "description": "Assistez à notre séminaire sur l'intelligence artificielle avec des experts du domaine. Inscrivez-vous dès maintenant pour réserver votre place."
+        , "img" :"news.jpeg"
+
+      }
+    ],
+    "groupes": [
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevOwfs 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Gestion des Entreprises", "name":"Gestion 201","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Réseaux 101","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Infrastructure Digital", "name":"Cyber 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Développement Digital", "name":"DevMobile 102","img":"assets/devowfs.png"},
+      {"CAD":"Ahmed Mohamed", "fil":"Electricité de Bâtiment", "name":"Electricite 201","img":"assets/devowfs.png"}
     ]
   }
 ]
