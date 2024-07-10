@@ -1,10 +1,6 @@
 import React from "react";
 import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardHeader,
-  CardTitle,
+  Card
 } from "@/components/ui/card";
 import {
   Pagination,
@@ -24,13 +20,15 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import {Link} from "react-router-dom";
 
 export default function GroupsEta(props) {
   const { eta } = props;
+  
 
   return (
     <>
-      <div className="m-5 md:mx-20 flex justify-between">
+      <div className="m-5 md:mx-32 flex justify-between">
         <h1 className="text-green-600 text-2xl">
           <b className="text-green-600 text-2xl">Groupes : </b>
         </h1>
@@ -50,7 +48,7 @@ export default function GroupsEta(props) {
         </Select>
       </div>
 
-      <div className="grid   sm:grid-cols-2  md:grid-cols-3 gap-0 bg-slate-200 mx-2 lg:mx-32 rounded-3xl">
+      <div className="grid  sm:grid-cols-2  md:grid-cols-3 gap-0 bg-slate-200 mx-2 lg:mx-32 rounded-3xl">
         {eta.groupes.map((el) => (
           <div className=" mx-10 my-5" key={el.name}>
             <Card className="pb-4 border-0 border-t-8 border-t-green-500 bg-green-400 shadow-md">
@@ -63,10 +61,20 @@ export default function GroupsEta(props) {
               </p>
 
               <div className="flex justify-center">
-                <button className="rounded bg-green-400 text-white mt-5 px-4 py-1 flex items-center font-semibold hover:bg-green-500 hover:shadow-2xl border-2 border-white shadow-md ">
-                  <img className="w-5 mr-2" src="assets/newPage.svg" />
-                  View More
-                </button>
+             
+             
+
+                <Link
+                className="rounded-xl bg-white text-green-600 mt-5 px-4 py-1 flex items-center font-semibold hover:bg-green-500 hover:shadow-2xl hover:text-white border-2 border-white shadow-md "
+                to = {`/eta/${eta.name}/${el.name}`} 
+              >
+                <img
+                  className="w-5 mr-2"
+                  src="assets/newPage.svg"
+                  alt="new page icon"
+                />
+                En savoir plus
+              </Link>
               </div>
             </Card>
           </div>

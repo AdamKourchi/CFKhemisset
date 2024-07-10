@@ -155,7 +155,7 @@ export default function Details() {
                         </b> <br />
 
                         {filiere.opts &&
-                          filiere.opts.map((opt) =>  <ul key={opt}> <li className="list-disc ml-10" >{opt}</li> </ul>)}
+                          filiere.opts.map((opt) =>  <ul key={opt}> <li className="list-image-[url('assets/check.png')] ml-10" >{opt}</li> </ul>)}
                       </div>
                     ))}
                   </div>

@@ -8,15 +8,15 @@ export default function FooterWithLogo() {
        
        <div className="md:flex md:justify-between ">
      
-          <div className="mb-6 md:mb-0 ">
-            <div className=" md:w-4/5 pt-0  flex justify-center items-center">
+          <div className="mb-6 md:mb-0 flex items-center space-x-4 ">
+            <div className="  pt-0 ">
               <img
                 src="assets/logo-circle.png"
-                className="me-3 w-1/3"
+                className="w-20"
               />
             </div>
            
-            <div className=" md:w-4/5 text-center text-gray-700 text-xl font-semibold font-['Langar'] ">
+            <div className="  text-gray-700 text-2xl font-semibold font-['Langar']  ">
               Centre de Formation Khemisset
             </div>
           </div>

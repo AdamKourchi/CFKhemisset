@@ -17,7 +17,7 @@ export default function ActualitesEta(props) {
 
   return (
     <>
-        <div className="m-5 md:mx-20">
+        <div className="m-5 md:mx-32">
           <h1 className="text-green-600 text-2xl">
             <b className="text-green-600 text-2xl">Actualités : </b>
           </h1>
