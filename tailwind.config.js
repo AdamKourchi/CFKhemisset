@@ -21,6 +21,9 @@ module.exports = {
         'k2d': ['K2D', 'sans-serif'],
         "almarai" : ['Almarai', 'sans-serif']
       },
+      listStyleImage: {
+        checkmark: 'url("check.png")',
+      },
 
       colors: {
         border: "hsl(var(--border))",
