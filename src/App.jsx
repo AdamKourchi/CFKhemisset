@@ -9,8 +9,9 @@ export default function App(){
     <HashRouter >
         <Routes>
           <Route index element={<Home/>} />
-          <Route path="/eta/:name" element={<Etablissement/>} />
-          <Route path="/eta/:name/:group" element={<Groupe/>} />
+          <Route path="/:name" element={<Etablissement/>} />
+          <Route path="/:name/:group" element={<Groupe/>} />
+          <Route path="*" element={<Home/>} />
         </Routes>
       </HashRouter>
     )

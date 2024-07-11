@@ -81,11 +81,11 @@ function EtaMap() {
 
               <Link
                 className="p-2 rounded bg-green-600 text-white flex justify-center shadow-lg mt-1 border-4 border-double hover:bg-green-500 "
-                to = {`/eta/${selected.name}`} state= {selected}
+                to = {`/${selected.name}`} state= {selected}
               >
                 <img
                   className="w-5 mr-2"
-                  src="assets/newPage.svg"
+                  src="assets/newPageWhite.svg"
                   alt="new page icon"
                 />
                 En savoir plus

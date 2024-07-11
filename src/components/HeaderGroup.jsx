@@ -12,7 +12,7 @@ export default function HeaderGroup(props) {
         </div>
 
         <div className="flex gap-1">
-          <a className="rounded bg-green-600 text-white px-4 py-1 flex items-center font-semibold hover:bg-green-500" href={`/#/eta/${eta.name}`}>
+          <a className="rounded bg-green-600 text-white px-4 py-1 flex items-center font-semibold hover:bg-green-500" href={`/CFKhemisset/#/${eta.name}`}>
             <img className="w-5 mr-2" src="assets/backArrow.svg" /> Back
           </a>
 

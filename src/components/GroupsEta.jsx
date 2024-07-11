@@ -66,7 +66,7 @@ export default function GroupsEta(props) {
 
                 <Link
                 className="rounded-xl bg-white text-green-600 mt-5 px-4 py-1 flex items-center font-semibold hover:bg-green-500 hover:shadow-2xl hover:text-white border-2 border-white shadow-md "
-                to = {`/eta/${eta.name}/${el.name}`} 
+                to = {`/${eta.name}/${el.name}`} 
               >
                 <img
                   className="w-5 mr-2"
